@@ -1,0 +1,8 @@
+{
+    "name":   "testify",
+    "version":"0.1.1",
+    "reposetory":{
+        "type":"git",
+        "url":"https://github.com/Majd-Mostafa/testify.git"
+    }
+}
